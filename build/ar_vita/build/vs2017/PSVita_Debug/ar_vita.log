@@ -1,0 +1,8 @@
+﻿  sony_camera.cpp
+  sony_sample_framework.cpp
+  sony_tracking.cpp
+M:\GitHub\AppliedGameTechnologies\AR-CADE\ar_vita\sony_tracking.cpp(479,10): warning 178: variable "hw" was declared but never referenced
+  
+M:\GitHub\AppliedGameTechnologies\AR-CADE\ar_vita\sony_tracking.cpp(480,10): warning 178: variable "hh" was declared but never referenced
+  
+  ar_vita.vcxproj -> M:\GitHub\AppliedGameTechnologies\AR-CADE\build\vs2017\PSVita_Debug\ar_vita.a

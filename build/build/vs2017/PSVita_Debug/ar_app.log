@@ -1,0 +1,41 @@
+﻿  ar_app.cpp
+.\game_object.h(8,6): warning 1700: class "game_object" has virtual functions but non-virtual destructor
+  
+.\orbit_object.h(4,6): warning 1700: class "orbit_object" has virtual functions but non-virtual destructor
+  
+.\enemy_object.h(4,6): warning 1700: class "enemy_object" has virtual functions but non-virtual destructor
+  
+.\player_object.h(11,6): warning 1011: function "game_object::Update()" is hidden by "player_object::Update" -- virtual function override intended?
+  
+.\player_object.h(4,6): warning 1700: class "player_object" has virtual functions but non-virtual destructor
+  
+.\base_state.h(19,6): warning 1700: class "base_state" has virtual functions but non-virtual destructor
+  
+.\splash_state.h(4,6): warning 1700: class "splash_state" has virtual functions but non-virtual destructor
+  
+.\howto_state.h(4,6): warning 1700: class "howto_state" has virtual functions but non-virtual destructor
+  
+.\game_state.h(21,6): warning 1700: class "game_state" has virtual functions but non-virtual destructor
+  
+.\endgame_state.h(4,6): warning 1700: class "endgame_state" has virtual functions but non-virtual destructor
+  
+  game_state.cpp
+M:\GitHub\AppliedGameTechnologies\AR-CADE\build\vs2017\base_state.h(19,6): warning 1700: class "base_state" has virtual functions but non-virtual destructor
+  
+M:\GitHub\AppliedGameTechnologies\AR-CADE\build\vs2017\game_object.h(8,6): warning 1700: class "game_object" has virtual functions but non-virtual destructor
+  
+M:\GitHub\AppliedGameTechnologies\AR-CADE\build\vs2017\player_object.h(11,6): warning 1011: function "game_object::Update()" is hidden by "player_object::Update" -- virtual function override intended?
+  
+M:\GitHub\AppliedGameTechnologies\AR-CADE\build\vs2017\player_object.h(4,6): warning 1700: class "player_object" has virtual functions but non-virtual destructor
+  
+M:\GitHub\AppliedGameTechnologies\AR-CADE\build\vs2017\orbit_object.h(4,6): warning 1700: class "orbit_object" has virtual functions but non-virtual destructor
+  
+M:\GitHub\AppliedGameTechnologies\AR-CADE\build\vs2017\enemy_object.h(4,6): warning 1700: class "enemy_object" has virtual functions but non-virtual destructor
+  
+M:\GitHub\AppliedGameTechnologies\AR-CADE\build\vs2017\game_state.h(21,6): warning 1700: class "game_state" has virtual functions but non-virtual destructor
+  
+M:\GitHub\AppliedGameTechnologies\AR-CADE\build\vs2017\game_state.cpp(116,74): warning 1772: argument of type "float" is implicitly converted to parameter (2 of CreateSphereMesh) of type "int"
+  
+M:\GitHub\AppliedGameTechnologies\AR-CADE\build\vs2017\game_state.cpp(116,80): warning 1772: argument of type "float" is implicitly converted to parameter (3 of CreateSphereMesh) of type "int"
+  
+  ar_app.vcxproj -> M:\GitHub\AppliedGameTechnologies\AR-CADE\build\vs2017\PSVita_Debug\ar_app.self
